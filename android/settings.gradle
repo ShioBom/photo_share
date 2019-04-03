@@ -1,0 +1,3 @@
+rootProject.name = 'photo_share'
+
+include ':app'
